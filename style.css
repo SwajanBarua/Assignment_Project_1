@@ -1,0 +1,56 @@
+.orange{
+    color: orange;
+}
+.flexible_comtainer{
+    display: flex;
+    margin-bottom: 150px;    
+}
+.border{
+    border-left: 3px solid;
+    border-image: linear-gradient(#f6673c, #ca5f07) 30;
+    border-image-slice: 1;
+}
+h2{
+    font-size: 25px;
+}
+#center{
+    text-align: center;
+}
+.half_width{
+    width: 50%;
+    padding-left: 8%;
+}
+.half_width img{
+    width: 50%;
+}
+.Explore{
+    text-decoration: none;
+    background-color: rgb(228, 128, 92);
+    color: white;
+    font-weight: 700;
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+
+.mvg{
+    width: 95%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 50px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px white;
+}
+.is1{
+    background-color: rgb(207, 228, 236);
+}
+.is2{
+    background-color: rgb(241, 220, 241);
+}
+.is3{
+    background-color: wheat;
+}
+footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
